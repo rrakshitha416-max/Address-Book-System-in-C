@@ -1,0 +1,23 @@
+📒 Address Book in C
+
+A simple Address Book application in C that demonstrates core programming concepts through a complete CRUD system (Create, Read, Update, Delete). The project stores contacts in a CSV file to ensure persistent storage even after the program exits.
+
+🚀 Features
+
+➕ Create a new contact 🔍 Search by name, phone, or email ✏️ Edit existing contact details ❌ Delete a contact 📋 List all contacts (with sorting) 💾 Save & load contacts from CSV 🛠️ Tech Stack
+
+Language: C
+
+Concepts Used:
+
+Structures & Pointers Arrays & String Manipulation Modular Programming (.c & .h files) File Handling (CSV)
+
+🎯 Learning Outcomes
+
+Practical implementation of C fundamentals
+
+Understanding of modular design in projects
+
+Hands-on experience with file I/O for persistence
+
+Improved debugging and input validation skills
